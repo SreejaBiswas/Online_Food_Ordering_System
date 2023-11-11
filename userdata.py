@@ -1,8 +1,4 @@
 import mysql.connector
-import itertools
-import secrets
-import string
-
 db = mysql.connector.connect(
     host='localhost',
     user='root',
