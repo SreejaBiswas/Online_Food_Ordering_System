@@ -1,4 +1,3 @@
-from tkinter import Image
 import streamlit as st
 from admin_login import user_data_table 
 from userdata import get_order_data, login, signup, get_details, update_details, update_password, delete_user
